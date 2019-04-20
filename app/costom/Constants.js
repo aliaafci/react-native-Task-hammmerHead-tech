@@ -1,0 +1,9 @@
+export const REGISTERED_FLAG = 'registered';
+export const USER_INFO_COLUMN = 'userRegistrationInfo';
+export const CONSUMER_KEY = 'FITE9zSuKL6zmx2GARCWIgLub';
+export const CONSUMER_SECRET = 'XXKlTWqkIvRrIShDbHt0c8VQfH8UC2wxdN7DFY4USEYCnnKhMA';
+export const CONSUMER_TOKEN= '1118139252544552960-y9vCuD7sgFXunnCft0Wpz5Nv805Avd';
+export const CONSUMER_TOKEN_SECRET = 'BuasZy7ZkmjvUIwrg4Ai9AZhoMQJHZltgHOSNM38agF8A';
+export  const  CHECK_TOKEN_API = 'https://api.twitter.com/oauth2/token';
+export  const FETCH_TWEETS_API = 'https://api.twitter.com/1.1/statuses/user_timeline.json';
+export const  SIGNITURE_KEY ='HMAC-SHA1'
